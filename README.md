@@ -1,4 +1,4 @@
-#github pages
+# github pages
 https://tharushan-5.github.io/wikipedia-search/
 
 # WikipediaSearch
